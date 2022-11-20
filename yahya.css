@@ -1,0 +1,19 @@
+
+.head{
+background-image:url(011/777.jpg) ;
+background-size:cover ;
+background-position: center center;
+height: 200px;
+margin-bottom: 10PX;
+}
+.myimg{
+width: 150px;
+height: 150px;
+margin: 0 auto;
+display: block;
+padding-bottom: 10px;
+border-radius: 50%;
+}
+.items{
+    text-align: center;
+}
